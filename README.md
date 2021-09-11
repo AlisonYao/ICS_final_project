@@ -4,6 +4,6 @@ CSCI-SHU 11 Intro to Computer Programming | Spring2019 | Final Project | ICS fin
 
 ## Project Demo
 
-Please check the YouTube video for the demo: https://www.youtube.com/watch?v=JiLUHwuAikg
+Please check out the YouTube video for demo: https://www.youtube.com/watch?v=JiLUHwuAikg
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JiLUHwuAikg/0.jpg)](https://www.youtube.com/watch?v=JiLUHwuAikg)
