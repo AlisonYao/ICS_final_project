@@ -1,4 +1,9 @@
 # ICS_final_project
+
 CSCI-SHU 11 Intro to Computer Programming | Spring2019 | Final Project | ICS final project: Pygame and GUI
 
-https://www.youtube.com/watch?v=JiLUHwuAikg
+## Project Demo
+
+Please check the YouTube video for the demo: https://www.youtube.com/watch?v=JiLUHwuAikg
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JiLUHwuAikg/0.jpg)](https://www.youtube.com/watch?v=JiLUHwuAikg)
